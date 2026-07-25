@@ -1,2 +1,2 @@
 # assurance-wire-test
-Sandbox for the UIE + AgentGate change-assurance wiring test.
+Test repository for the AgentGate × UIE Change Assurance pilot round-trip.
